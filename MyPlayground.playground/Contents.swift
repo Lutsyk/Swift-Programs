@@ -1,6 +1,7 @@
 
 
 
-jdff
-ewgweg
-egwe
+var sosi = "xyu"
+sosi
+
+if()
